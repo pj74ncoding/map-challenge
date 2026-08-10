@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Petes Map Page</title>
+    <script
+      src="https://kit.fontawesome.com/6644687a4d.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="map-page.css" />
+  </head>
+  <body>
+    <!-- side menu -->
+    <section class="side-menu">
+      <div>
+        <div class="hamburger">
+          <div class="hamburger-icon">
+            <i class="fa-solid fa-bars fa-lg"></i>
+          </div>
+        </div>
+        <div class="saved">
+          <div class="saved-icon">
+            <i class="fa-regular fa-bookmark fa-lg"></i>
+          </div>
+          <p>Saved</p>
+        </div>
+
+        <div class="recent">
+          <div class="recent-icon">
+            <i class="fa-solid fa-clock-rotate-left fa-lg"></i>
+          </div>
+          <p>Recents</p>
+        </div>
+      </div>
+      <div class="app">
+        <div>
+          <i class="fa-solid fa-mobile-screen fa-2xl"></i>
+        </div>
+        <p>Get app</p>
+      </div>
+    </section>
+
+<!-- middle section -->
+    <article class="middle-section">
+      <div class="search-section">
+        <div class="searchbar-container">
+          <input class="searchbar" type="text" placeholder="Leicester" />
+        </div>
+      </div>
+      <div class="city-container">
+        <div class="heading">
+          <h2>Leicester</h2>
+        </div>
+        <div class="weather">
+          <i class="fa-solid fa-sun fa-xl" style="color: rgb(255, 212, 59)"></i>
+          &nbsp;
+          <p>Sunny-11°c</p>
+          <p>11:58</p>
+        </div>
+      </div>
+      <div class="selections-container">
+        <div class="selections">
+        <div class="directions">
+          <div class="directions-icon">
+            <i class="fa-solid fa-compass fa-lg"></i>
+          </div>
+          <p class="text">Directions</p>
+        </div>
+        <div class="save">
+          <div class="save-icon">
+            <i class="fa-regular fa-bookmark fa-lg"></i>
+          </div>
+          <p class="text">Save</p>
+        </div>
+        <div class="nearby">
+          <div class="nearby-icon">
+            <i class="fa-solid fa-location-dot fa-lg"></i>
+          </div>
+          <p class="text">Nearby</p>
+        </div>
+        <div class="send-to-phone">
+          <div class="send-to-phone-icon">
+          <i class="fa-solid fa-mobile-screen-button fa-lg"></i>
+          </div>
+          <div class="send-to-phone-icon-text">
+          <p class="text">Send to</p>
+          <p class="text">phone</p>
+          </div>
+        </div>
+        <div class="share">
+          <div class="share-icon">
+            <i class="fa-solid fa-share-nodes fa-lg"></i>
+          </div>
+          <p class="text">Share</p>
+        </div>
+        </div>
+      </div>
+
+      <article class="quick-facts">
+        <h2>Quick Facts</h2>
+        Leicester is a city in England's East Midlands region. Leicester
+        Cathedral, where Richard III was reinterred in 2015, has stood at the
+        city's heart for over 900 years. Close by, the King Richard III Visitor
+        Centre tells the story of the king's life and death and displays his
+        original burial site. The ruins of Leicester Castle, where Richard III
+        spent some of his last days, lie in Castle Gardens, near the River Soar.
+      </article>
+    </article>
+
+
+    <!-- map section -->
+    <section class="map-container">
+      <div class="top-buttons-container">
+        <div class="catergories">
+          <button>
+            <i class="fa-solid fa-utensils"></i>&nbsp;&nbsp;Resturants
+          </button>
+          <button><i class="fa-solid fa-bed"></i>&nbsp;&nbsp;Hotels</button>
+          <button>
+            <i class="fa-solid fa-camera"></i>&nbsp;&nbsp;Things To Do
+          </button>
+          <button>
+            <i class="fa-solid fa-building-columns"></i>&nbsp;&nbsp;Musuems
+          </button>
+          <button>
+            <i class="fa-solid fa-train"></i>&nbsp;&nbsp;Transport
+          </button>
+          <button>
+            <i class="fa-solid fa-prescription-bottle-medical"></i
+            >&nbsp;&nbsp;Chemist
+          </button>
+          <button>
+            <i class="fa-solid fa-money-bills"></i>&nbsp;&nbsp;ATM's
+          </button>
+        </div>
+
+        <div>
+          <button class="sign-in-button">Sign in</button>
+        </div>
+      </div>
+
+      <iframe
+        class="map"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d77482.38686354239!2d-1.2135005494029603!3d52.63604852008475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487742ab49b76c73%3A0x9a151d2a6fb49cb8!2sLeicester!5e0!3m2!1sen!2suk!4v1776767825457!5m2!1sen!2suk"
+        style="border: 0"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+      ></iframe>
+    </section>
+  </body>
+</html>
