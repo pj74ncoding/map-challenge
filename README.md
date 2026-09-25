@@ -1,6 +1,6 @@
 # map-challenge
 
-Copied a google maps webpage using HTML and CSS
+Replicated a google maps webpage using HTML and CSS
 
 Live Demo: https://map-challenge-three.vercel.app/
 
