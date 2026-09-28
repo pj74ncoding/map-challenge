@@ -26,15 +26,13 @@ Live Demo: https://map-challenge-three.vercel.app/
 
 ### Motivation
 
-Why did you build this project?
+To copy a webpage to improve my page structure skills and test my HTML and CSS skills
 
-### Objective
-
-What problem does this application solve?
 
 ### Learning Outcomes
 
 - I learnt how to create a <div> to use as a background hover effect
+- I learnt how to structure a page
 
 
 ## Project Features
