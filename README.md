@@ -105,10 +105,6 @@ Frontend:
 npm start
 ```
 
----
-
----
-
 ## Screenshots
 
 ```
