@@ -31,7 +31,7 @@ To copy a webpage to improve my page structure skills and test my HTML and CSS s
 
 ### Learning Outcomes
 
-- I learnt how to create a <div> to use as a background hover effect
+- I learnt how to create a div to use as a background hover effect
 - I learnt how to structure a page
 
 
