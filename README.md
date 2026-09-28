@@ -77,9 +77,6 @@ fountain.jpg
 index.html
 map-page.css
 
-
-
-
 ```
 
 ---
