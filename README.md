@@ -26,7 +26,8 @@ Live Demo: https://map-challenge-three.vercel.app/
 
 ### Motivation
 
-To copy a webpage to improve my page structure skills and test my HTML and CSS skills
+-ITonlinelearning course project
+ Copy a webpage to improve my page structure skills and test my HTML and CSS skills
 
 
 ### Learning Outcomes
