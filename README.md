@@ -26,7 +26,7 @@ Live Demo: https://map-challenge-three.vercel.app/
 
 ### Motivation
 
--ITonlinelearning course project
+- ITonlinelearning course project
 
  Copy a webpage to improve my page structure skills and test my HTML and CSS skills
 
