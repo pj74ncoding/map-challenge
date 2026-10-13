@@ -106,7 +106,7 @@ Frontend:
 npm start
 ```
 
-## Peview
+## Preview
 
 ```
 client
