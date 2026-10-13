@@ -41,7 +41,7 @@ Live Demo: https://map-challenge-three.vercel.app/
 
 - Embedded a map from Google maps
 
-- used Font Awesome to include icons
+- Used Font Awesome to include icons
 
 - Implemented CSS to add hover effects.
 
@@ -95,11 +95,10 @@ cd map-challenge
 Frontend:
 
 ```bash
-cd map-challenge
 npm install
 ```
 
-### Run Development Servers
+### Run Application
 
 Frontend:
 
@@ -115,14 +114,6 @@ client
   fountain.jpg
 
 ```
-
-Add inside README:
-
-```markdown
-![Home Page](assets/home.png)
-![Dashboard](assets/dashboard.png)
-```
-
 ---
 
 ## Future Improvements
